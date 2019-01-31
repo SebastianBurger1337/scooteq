@@ -7,6 +7,6 @@
   * Simon
   * Steffen
   * Sebastian
-
+---
 ## Database Project
 This goal of this project was to create a database for the fictional ScooTeq GmbH.
